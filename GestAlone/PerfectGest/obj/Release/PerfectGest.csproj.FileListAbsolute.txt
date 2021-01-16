@@ -1,0 +1,15 @@
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\bin\Release\GestAlone.exe.config
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\obj\Release\GestAlone.exe
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\obj\Release\GestAlone.pdb
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\bin\Release\GestAlone.exe
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\bin\Release\GestAlone.pdb
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\obj\Release\PerfectGest.csprojResolveAssemblyReference.cache
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\obj\Release\GestAlone.FormConnexion.resources
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\obj\Release\GestAlone.Main.resources
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\obj\Release\GestAlone.Properties.Resources.resources
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\obj\Release\PerfectGest.csproj.GenerateResource.Cache
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\obj\Release\GestAlone.GestionTypeDonation.resources
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\obj\Release\GestAlone.aPropos.resources
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\bin\Release\PerfectGest.exe.config
+C:\Users\fab\Dropbox\projetQuatre\GestAlone\GestAlone\obj\Release\PerfectGest.Properties.Resources.resources
